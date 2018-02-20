@@ -1,0 +1,34 @@
+[
+  {
+    "id":"server",
+    "name":"server"
+  },
+  {
+    "id":"server.tomcat-1080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-2080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-3080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-4080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-5080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-6080",
+    "name":"server.Tomcat"
+  },
+  {
+    "id":"server.tomcat-7080",
+    "name":"server.Tomcat"
+  }
+]

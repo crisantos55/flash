@@ -1,0 +1,93 @@
+
+#headG{
+	height: 120px;
+	background: #9F26B5  no-repeat top center;
+	padding-left: 0px;
+}
+
+
+#imagenFondo{
+	   background:  url(../img/loginimg.png)  center;
+	    background-size: 800px 700px;
+}
+
+
+.encabezado{
+      text-align: center;
+    color: gray;
+    font-size: 40px;
+    font-style: italic;
+    font-family: monospace;
+}
+
+.table-bordered {
+    margin-bottom: 0px;
+}
+
+.centrar{
+	text-align: center;
+}
+
+
+.headTable{
+	color: white; 
+	background: #357d77;
+
+}
+
+.headerModal{
+  background-color: #9f26b5;
+    color: aliceblue;
+    text-align: center;
+}
+
+.bodyModal{
+      background-color: ghostwhite;
+}
+
+
+.paginacion{
+  float: right;
+}
+
+
+.modal
+{
+    overflow: hidden;
+}
+
+.modal-backdrop{
+   overflow: hidden;
+}
+.modal-dialog{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+#tree {
+    width: 750px;
+    height: 400px;
+    overflow: scroll;
+}

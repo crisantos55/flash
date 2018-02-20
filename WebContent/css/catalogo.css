@@ -1,0 +1,26 @@
+.derecha {
+	text-align: right;
+}
+
+.centrar{
+	text-align: center;
+}
+
+.containCatalogo{
+ padding-left: 35%;
+ padding-right:  35%
+}
+
+
+.containCatalogoArea{
+ padding-left: 15%;
+ padding-right:  15%
+}
+
+
+.containModalCatalogo{
+	padding-left: 10%;
+    padding-right: 15%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

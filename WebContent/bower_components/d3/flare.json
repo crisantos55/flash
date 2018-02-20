@@ -1,0 +1,22 @@
+{
+    "name": "Sl-gbeta052",
+    "children": [{
+        "name": "Tomcat-7080",
+        "children": [{
+                "name": "CuentasN4",
+                "size": 3938
+            }, {
+                "name": "Historias Bolsillo",
+                "size": 7430
+            
+        }]
+    },
+
+        {
+        "name": "Tomcat-6080"
+        },
+
+        {
+             "name": "Tomcat-5080"
+        }]
+}

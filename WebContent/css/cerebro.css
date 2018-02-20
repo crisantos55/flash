@@ -1,0 +1,68 @@
+  .node {
+    cursor: pointer;
+  }
+
+  .overlay{
+      background-color:#EEE;
+  }
+   
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+    border-style: double;
+    stroke: #8897fd;
+  }
+   
+  .node text {
+    font-size:11px; 
+    font-family:sans-serif;
+    color : #795548;
+
+  }
+   
+  .link {
+    fill: none;
+    stroke: #8897fd;
+    stroke-width: 2px;
+  }
+
+.node circle {
+  fill: yellow;
+  opacity: 0.3;
+  color: red;
+}
+
+
+
+
+.Headerlog{
+
+    background-color: #fff;
+    margin-top: 5px;
+    margin-left: 78%;
+    margin-right: 5px;
+    padding: 5px;
+    color : white;
+    font-size: 15px;
+    width: 50%;
+    border: 1px #ddd solid;
+     background-color: gray;
+     text-align: center;
+}
+
+
+.log{
+
+    background-color: #fff;
+    margin-top: 5px;
+    margin-left: 78%;
+    margin-right: 5px;
+    padding: 5px;
+    color : white;
+    font-size: 10px;
+    width: 50%;
+    border: 1px #ddd solid;
+     background-color: #8897fd;
+     text-align: left;
+}
